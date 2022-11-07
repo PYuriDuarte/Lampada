@@ -1,0 +1,11 @@
+.headerLamp, .mainLamp{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#turnOn, #turnOff{
+  width: 80px;
+}
+#turnOn:hover, #turnOff:hover{
+  cursor: pointer;
+}
