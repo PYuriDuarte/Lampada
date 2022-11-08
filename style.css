@@ -3,9 +3,6 @@
   flex-direction: column;
   align-items: center;
 }
-#turnOn, #turnOff{
+#turnOnOff{
   width: 80px;
-}
-#turnOn:hover, #turnOff:hover{
-  cursor: pointer;
 }
